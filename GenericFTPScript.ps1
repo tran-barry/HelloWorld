@@ -1,8 +1,8 @@
 ﻿# Config
 $Username = "barryftpsite\tran_barry"
 $Password = "Passw0rd;"
-$LocalFile = "C:\Temp\file.zip"
-$RemoteFile = "ftp://waws-prod-bay-043.ftp.azurewebsites.windows.net/Files/file.zip"
+$LocalFile = "HelloWorld.exe"
+$RemoteFile = "ftp://waws-prod-bay-043.ftp.azurewebsites.windows.net/Files/HelloWorld.exe"
  
 # Create FTP Rquest Object
 $FTPRequest = [System.Net.FtpWebRequest]::Create("$RemoteFile")
