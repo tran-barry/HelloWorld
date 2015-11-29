@@ -1,6 +1,6 @@
 C:\dev\GitHub\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\dev\GitHub\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 C:\dev\GitHub\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\dev\GitHub\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\dev\GitHub\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\dev\GitHub\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\dev\GitHub\HelloWorld\HelloWorld\HelloWorld\bin\Debug\Test.ps1
