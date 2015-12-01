@@ -46,7 +46,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="GenericFTPScript.ps1" />
+    <None Include="GenericFTPScript.ps1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Test.ps1">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
