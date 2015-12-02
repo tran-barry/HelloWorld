@@ -10,7 +10,10 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello - " + args[0]);
+            if (args[0] == "Cthulhu")
+                Console.WriteLine("Go away");
+            else
+                Console.WriteLine("Hello - " + args[0]);
         }
     }
 }
